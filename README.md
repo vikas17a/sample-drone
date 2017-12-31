@@ -1,2 +1,4 @@
 # sample-drone application
-An example of how to test Go code with Drone.
+
+* Application contains hello world applicaiton
+* Application stores main.go
